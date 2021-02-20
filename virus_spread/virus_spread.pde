@@ -2,7 +2,7 @@ person[][] p;
 float radius = 20;
 int xs, ys, totalInfected; 
 float ip = 0.2;
-float speed = 1000.0;
+float speed = 10.0;
 int pplmoved = 10;
 ArrayList<Integer> infectedperday = new ArrayList<Integer>();
 boolean travel = false;
